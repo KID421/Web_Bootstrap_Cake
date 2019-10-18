@@ -1,0 +1,30 @@
+body {
+    /* 背景色 bg */
+    background: rgb(209, 181, 128);
+}
+
+.container {
+    background: #eee;
+}
+
+h1 {
+    /* 文字顏色 c */
+    color: #666;
+    /* 文字大小 fz */
+    font-size: 24px;
+}
+
+.carousel-item img {
+    /* 高度 h600 */
+    height: 600px;
+    /* 物件適應 ob */
+    object-fit: cover;
+}
+
+footer {
+    height: 100px;
+    /* 行高 lh */
+    line-height: 100px;
+    color: #fff;
+    background: rgb(209, 181, 128);
+}
